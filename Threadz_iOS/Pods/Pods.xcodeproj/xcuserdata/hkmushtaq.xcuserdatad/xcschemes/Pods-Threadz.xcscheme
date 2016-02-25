@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'A6A06B4515B99815E90873D2'
+               BlueprintIdentifier = 'AA7BD5E412915D0A2B4A4DE5'
                BlueprintName = 'Pods-Threadz'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_Threadz.framework'>

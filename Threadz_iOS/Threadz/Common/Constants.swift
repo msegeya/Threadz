@@ -19,7 +19,6 @@ let TNetworkRequestParameterKeyFirstName = "firstName"
 let TNetworkRequestParameterKeyLastName = "lastName"
 let TNetworkRequestParameterKeyProfilePicUrl = "profilePicUrl"
 
-
 // Storyboard Ids
 let TStoryboardIdTabBarController = "TTabBarController"
 let TStoryboardIdChatsViewController = "TChatsViewController"
