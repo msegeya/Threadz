@@ -1,0 +1,6 @@
+framework module Pods_Threadz {
+  umbrella header "Pods-Threadz-umbrella.h"
+
+  export *
+  module * { export * }
+}
